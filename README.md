@@ -27,8 +27,14 @@ https://www.flaticon.com/
 https://www.iconfinder.com/
 
 https://br.freepik.com/vetores-exclusivos-freepik/7?type=vectores
+
+http://dryicons.com/
           
 - Sons:https://freesound.org/
 - Referência atualizads das melhores páginas e apps: https://thefwa.com/
 - Referência de Logos: https://logopond.com/ http://www.brandsoftheworld.com/logos
 - Free images: https://pt.freeimages.com/
+
+## Pattern
+- Cria backgrouds com patterns: http://www.bgpatterns.com/
+- (Biblio de patterns): https://www.patterncooler.com/
