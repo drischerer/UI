@@ -15,5 +15,6 @@
 ## Melhores hospedagens de sites
 - https://www.melhorhospedagemdesites.com/melhor-hospedagem-de-sites/
 
-## Mockups
-- ícones, celulares, camisetas, fotos: https://graphicburger.com/
+## Biblioteca
+- Mockups: ícones, celulares, camisetas, fotos: https://graphicburger.com/
+-Ícones: https://thenounproject.com/
