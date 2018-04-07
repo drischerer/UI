@@ -7,3 +7,7 @@
 
 ## Palette
 - https://gradients.cssgears.com/?&utm_source=prototypr_newsletter&utm_medium=email&utm_campaign=typography_on_the_subway_mapbreaking_and_how_to_make_a_dot&utm_term=2018-01-08
+
+## Tipografia:
+- Identifique a tipografia: https://www.whatfontis.com/
+- Descubra quais estão instaladas no seu pc: https://wordmark.it/
