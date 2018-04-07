@@ -21,3 +21,4 @@
           https://www.flaticon.com/
           https://www.iconfinder.com/
 - Sons:https://freesound.org/
+- Referência atualizads das melhores páginas e apps: https://thefwa.com/
