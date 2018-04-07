@@ -11,6 +11,7 @@
 ## Tipografia:
 - Identifique a tipografia: https://www.whatfontis.com/
 - Descubra quais estão instaladas no seu pc: https://wordmark.it/
+- Download de fonte: https://www.dafont.com/pt/
 
 ## Melhores hospedagens de sites
 - https://www.melhorhospedagemdesites.com/melhor-hospedagem-de-sites/
@@ -22,3 +23,5 @@
           https://www.iconfinder.com/
 - Sons:https://freesound.org/
 - Referência atualizads das melhores páginas e apps: https://thefwa.com/
+- Referência de Logos: https://logopond.com/
+- Free images: https://pt.freeimages.com/
