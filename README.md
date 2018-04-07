@@ -11,3 +11,6 @@
 ## Tipografia:
 - Identifique a tipografia: https://www.whatfontis.com/
 - Descubra quais estão instaladas no seu pc: https://wordmark.it/
+
+## Melhores hospedagens de sites
+- https://www.melhorhospedagemdesites.com/melhor-hospedagem-de-sites/
