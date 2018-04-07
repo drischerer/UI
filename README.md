@@ -21,7 +21,8 @@
 - Ícones: https://thenounproject.com/
           https://www.flaticon.com/
           https://www.iconfinder.com/
+          
 - Sons:https://freesound.org/
 - Referência atualizads das melhores páginas e apps: https://thefwa.com/
-- Referência de Logos: https://logopond.com/
+- Referência de Logos: https://logopond.com/ http://www.brandsoftheworld.com/logos
 - Free images: https://pt.freeimages.com/
