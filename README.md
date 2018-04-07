@@ -16,4 +16,4 @@
 - https://www.melhorhospedagemdesites.com/melhor-hospedagem-de-sites/
 
 ## Mockups
-- https://graphicburger.com/
+- ícones, celulares, camisetas, fotos: https://graphicburger.com/
