@@ -21,8 +21,11 @@
 - Mockups: ícones, celulares, camisetas, fotos: https://graphicburger.com/
 - Ícones: 
 https://thenounproject.com/
+
 https://www.flaticon.com/
+
 https://www.iconfinder.com/
+
 https://br.freepik.com/vetores-exclusivos-freepik/7?type=vectores
           
 - Sons:https://freesound.org/
