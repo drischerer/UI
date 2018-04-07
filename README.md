@@ -17,4 +17,6 @@
 
 ## Biblioteca
 - Mockups: ícones, celulares, camisetas, fotos: https://graphicburger.com/
--Ícones: https://thenounproject.com/
+- Ícones: https://thenounproject.com/
+          https://www.flaticon.com/
+          https://www.iconfinder.com/
